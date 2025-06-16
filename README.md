@@ -217,7 +217,7 @@
 <body>
 
   <header>
-    <h1>MADHURI MANDALA</h1>
+    <h1>Srinithya Polneni</h1>
     <div class="typewriter">Web Developer | Learner | Dreamer</div>
     <nav>
       <a href="#about">About</a>
@@ -231,7 +231,7 @@
   <div class="container">
 
     <div class="photo-box">
-      <img src="madhuri.jpg" alt="madhuri.jpg" width="200">
+      <img src="Srinithya.jpg" alt="Srinithya.jpg" width="200">
 
     </div>
 
@@ -296,13 +296,13 @@
 </p>
 
        <p><strong><i class="fab fa-github"></i> GitHub:</strong> 
-  <a href="https://github.com/2303a51295madhuri/MadhuriReddy.git" target="_blank" rel="noopener noreferrer">
-    github.com/2303a51295madhuri/MadhuriReddy
+  <a href="https://github.com/2303a51546/srinithya polneni.git" target="_blank" rel="noopener noreferrer">
+    github.com/2303a515465srinithya
   </a>
 </p>
 
         <p><strong><i class="fas fa-file-pdf"></i> Resume:</strong> 
-  <a href="https://github.com/2303a51295madhuri/MadhuriReddy/raw/main/MadhuriReddy%20Resume.pdf" 
+  <a href="https://github.com/2303a51546/portfolio/edit/main/README.md" 
      target="_blank" rel="noopener noreferrer">
     View My Resume
   </a>
@@ -314,7 +314,7 @@
   </div>
 
   <footer>
-  <p>&copy; 2025 Madhuri Reddy | Designed with passion 🎨 and creativity ✨</p>
+  <p>&copy; 2025 Sri nithya| Designed with passion 🎨 and creativity ✨</p>
 </footer>
 
 
